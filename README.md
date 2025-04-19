@@ -1,2 +1,2 @@
 # study-hub-project
-A Software Development Project and Comprehensive Documentation
+Software Development and Comprehensive Documentation Project
